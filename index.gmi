@@ -9,4 +9,6 @@
 ```
 hello everybody, im jojo and this is my gemini capsule where i share my thoughts and writings on whatever. I hope you have a good time here reading what i have to say.
 
-
+=> reviews.gmi reviews
+=> blog.gmi blog
+=> internet.gmi around the net
