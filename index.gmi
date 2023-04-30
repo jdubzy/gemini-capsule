@@ -12,3 +12,6 @@ hello everybody, im jojo and this is my gemini capsule where i share my thoughts
 => reviews.gmi reviews
 => blog.gmi blog
 => internet.gmi around the net
+
+also my website on the web:
+=> https://www.goodboyjojo.com/ goodboyjojo.com

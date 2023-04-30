@@ -1,1 +1,14 @@
-wip
+```
+                _                   
+               (_)                  
+ _ __ _____   ___  _____      _____ 
+| '__/ _ \ \ / / |/ _ \ \ /\ / / __|
+| | |  __/\ V /| |  __/\ V  V /\__ \
+|_|  \___| \_/ |_|\___| \_/\_/ |___/
+```
+
+this is reviews of media i consume.
+
+=> reviews/music.gmi music
+=> reviews/games.gmi games
+=> reviews/anime.gmi anime
