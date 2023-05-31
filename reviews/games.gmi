@@ -10,3 +10,4 @@
 ```
 
 => posts/neet.gmi neet girl date night
+=> posts/ann.gmi ann
