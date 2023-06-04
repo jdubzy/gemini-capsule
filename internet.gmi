@@ -9,4 +9,5 @@
 
 this where i post cool stuff i find on the internet.
 
-=> internet/internet.gmi internet finds
+=> internet/games.gmi cool game websites
+=> internet/search.gmi alternitive search engines
