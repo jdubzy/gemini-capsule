@@ -1,0 +1,14 @@
+```
+                       _                  
+       ________ _   __(_)__ _      _______
+      / ___/ _ \ | / / / _ \ | /| / / ___/
+     / /  /  __/ |/ / /  __/ |/ |/ (__  ) 
+    /_/   \___/|___/_/\___/|__/|__/____/  
+    
+                                                              
+```
+
+this is my personal space where i review various types of media that i've consumed. this can range from comics to video games to many other things i feel like writing about. i hope you enjoy your time here reading what i have to say.
+
+=> /games/games.gmi games
+=> /comics/comics.gmi comics
